@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { LandingPage } from './pages/LandingPage';
 import { useEffect } from 'react';
+import AvailableSoon from './pages/Available';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
           <Route path="/" element={<LandingPage />} />
           {/* Only redirect when /audiowla route is matched */}
           <Route path="/audiowla" element={<AudioPageRedirect />} />
+          <Route path="/available_soon" element={<AvailableSoon />} />
         </Routes>
       </BrowserRouter>
     </>

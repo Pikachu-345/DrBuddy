@@ -17,14 +17,12 @@ Generation of preliminary diagnoses based on symptom input analysis, medical rep
           </p>
           <h3 className="text-xl font-semibold mt-4">Why Choose Us?</h3>
           <ul className="list-disc ml-4 text-gray-600">
-            <li>Fastest Doctor Response</li>
+            <li>Fastest Response</li>
             <li>Doctors 24/7</li>
             <li>Private and Secure Consultation</li>
             <li>Quality and Trust</li>
-            <li>10000+ Patients Treated</li>
-            <li>500+ Specialist Doctors</li>
-            <li>ISO 27001 Certified</li>
-            <li>256 bit encryption</li>
+            <li>Specialist AI Doctors</li>
+            <li>256 bit encryption for data handling</li>
           </ul>
         </div>
       </div>

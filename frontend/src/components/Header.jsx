@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <a href="/" className="text-xl font-bold">Dr.Buddy</a>
+            <a href="/" className="text-4xl font-bold">Dr.Buddy</a>
           </div>
           <nav className="flex">
             <a href="/" className="hover:text-blue-500 my-5 mx-8">FEATURES</a>
